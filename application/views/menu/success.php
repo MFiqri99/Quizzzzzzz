@@ -1,0 +1,1 @@
+<?php echo "<script>alert('Data Berhasil Di Simpan Dan Akan Otomatis Masuk Lagi Ke Form Input Data');document.location.href='input';</script>"; ?>
